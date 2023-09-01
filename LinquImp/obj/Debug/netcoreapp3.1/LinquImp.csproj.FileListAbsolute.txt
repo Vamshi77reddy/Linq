@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.exe
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.deps.json
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.dll
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\bin\Debug\netcoreapp3.1\LinquImp.pdb
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.dll
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.pdb
+C:\Users\Teju Reddy\source\repos\LinquImp\LinquImp\obj\Debug\netcoreapp3.1\LinquImp.genruntimeconfig.cache
